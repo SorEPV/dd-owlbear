@@ -1,15 +1,15 @@
 {
   "manifest_version": 1,
-  "name": "Feiticeiros & Maldições",
+  "name": "Dons & Desafios",
   "version": "1.0.3",
-  "description": "Fichas e rolagens ao vivo para mesas de Feiticeiros & Maldições.",
+  "description": "Fichas e rolagens ao vivo para mesas de Dons & Desafios.",
   "author": "SorEPV",
-  "homepage_url": "https://jjkepv.lovable.app",
+  "homepage_url": "https://dedepv.lovable.app",
   "icon": "https://sorepv.github.io/fm-owlbear/icon.svg",
   "action": {
-    "title": "Feiticeiros & Maldições",
-    "icon": "https://sorepv.github.io/fm-owlbear/icon.svg",
-    "popover": "https://jjkepv.lovable.app/",
+    "title": "Dons & Desafios",
+    "icon": "https://sorepv.github.io/dd-owlbear/icon.svg",
+    "popover": "https://dedepv.lovable.app/",
     "width": 420,
     "height": 700
   }
